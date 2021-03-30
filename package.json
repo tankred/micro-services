@@ -1,0 +1,23 @@
+{
+  "name": "micro-services",
+  "version": "0.1.0",
+  "description": "Collection of micro services",
+  "main": "index.js",
+  "scripts": {
+    "test": "standard"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tankred/micro-services.git"
+  },
+  "keywords": [
+    "nodejs",
+    "expand-url"
+  ],
+  "author": "Tankred",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/tankred/micro-services/issues"
+  },
+  "homepage": "https://github.com/tankred/micro-services#readme"
+}
