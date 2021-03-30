@@ -8,6 +8,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Released]
 
+## [0.2.0] - 2021-03-30
+### Changed
+- Export all long url's to file
+
 ## [0.1.0] - 2021-03-30
 ### Added
 - This CHANGELOG file

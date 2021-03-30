@@ -1,3 +1,4 @@
 *~
 *.swp
 node_modules/
+src/swd.url.md
