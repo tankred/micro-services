@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/tankred/micro-services/issues"
   },
-  "homepage": "https://github.com/tankred/micro-services#readme"
+  "homepage": "https://github.com/tankred/micro-services#readme",
+  "devDependencies": {
+    "request": "^2.88.2"
+  }
 }
